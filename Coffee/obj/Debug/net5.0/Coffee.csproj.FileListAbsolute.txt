@@ -1,0 +1,16 @@
+C:\Users\Administrator\RiderProjects\Coffee\Coffee\bin\Debug\net5.0\Coffee.exe
+C:\Users\Administrator\RiderProjects\Coffee\Coffee\bin\Debug\net5.0\Coffee.deps.json
+C:\Users\Administrator\RiderProjects\Coffee\Coffee\bin\Debug\net5.0\Coffee.runtimeconfig.json
+C:\Users\Administrator\RiderProjects\Coffee\Coffee\bin\Debug\net5.0\Coffee.runtimeconfig.dev.json
+C:\Users\Administrator\RiderProjects\Coffee\Coffee\bin\Debug\net5.0\Coffee.dll
+C:\Users\Administrator\RiderProjects\Coffee\Coffee\bin\Debug\net5.0\ref\Coffee.dll
+C:\Users\Administrator\RiderProjects\Coffee\Coffee\bin\Debug\net5.0\Coffee.pdb
+C:\Users\Administrator\RiderProjects\Coffee\Coffee\obj\Debug\net5.0\Coffee.csproj.AssemblyReference.cache
+C:\Users\Administrator\RiderProjects\Coffee\Coffee\obj\Debug\net5.0\Coffee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\RiderProjects\Coffee\Coffee\obj\Debug\net5.0\Coffee.AssemblyInfoInputs.cache
+C:\Users\Administrator\RiderProjects\Coffee\Coffee\obj\Debug\net5.0\Coffee.AssemblyInfo.cs
+C:\Users\Administrator\RiderProjects\Coffee\Coffee\obj\Debug\net5.0\Coffee.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\RiderProjects\Coffee\Coffee\obj\Debug\net5.0\Coffee.dll
+C:\Users\Administrator\RiderProjects\Coffee\Coffee\obj\Debug\net5.0\ref\Coffee.dll
+C:\Users\Administrator\RiderProjects\Coffee\Coffee\obj\Debug\net5.0\Coffee.pdb
+C:\Users\Administrator\RiderProjects\Coffee\Coffee\obj\Debug\net5.0\Coffee.genruntimeconfig.cache

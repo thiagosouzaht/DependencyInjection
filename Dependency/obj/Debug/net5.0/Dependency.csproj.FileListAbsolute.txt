@@ -1,0 +1,16 @@
+C:\Users\Administrator\RiderProjects\Coffee\Dependency\bin\Debug\net5.0\Dependency.exe
+C:\Users\Administrator\RiderProjects\Coffee\Dependency\bin\Debug\net5.0\Dependency.deps.json
+C:\Users\Administrator\RiderProjects\Coffee\Dependency\bin\Debug\net5.0\Dependency.runtimeconfig.json
+C:\Users\Administrator\RiderProjects\Coffee\Dependency\bin\Debug\net5.0\Dependency.runtimeconfig.dev.json
+C:\Users\Administrator\RiderProjects\Coffee\Dependency\bin\Debug\net5.0\Dependency.dll
+C:\Users\Administrator\RiderProjects\Coffee\Dependency\bin\Debug\net5.0\ref\Dependency.dll
+C:\Users\Administrator\RiderProjects\Coffee\Dependency\bin\Debug\net5.0\Dependency.pdb
+C:\Users\Administrator\RiderProjects\Coffee\Dependency\obj\Debug\net5.0\Dependency.csproj.AssemblyReference.cache
+C:\Users\Administrator\RiderProjects\Coffee\Dependency\obj\Debug\net5.0\Dependency.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\RiderProjects\Coffee\Dependency\obj\Debug\net5.0\Dependency.AssemblyInfoInputs.cache
+C:\Users\Administrator\RiderProjects\Coffee\Dependency\obj\Debug\net5.0\Dependency.AssemblyInfo.cs
+C:\Users\Administrator\RiderProjects\Coffee\Dependency\obj\Debug\net5.0\Dependency.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\RiderProjects\Coffee\Dependency\obj\Debug\net5.0\Dependency.dll
+C:\Users\Administrator\RiderProjects\Coffee\Dependency\obj\Debug\net5.0\ref\Dependency.dll
+C:\Users\Administrator\RiderProjects\Coffee\Dependency\obj\Debug\net5.0\Dependency.pdb
+C:\Users\Administrator\RiderProjects\Coffee\Dependency\obj\Debug\net5.0\Dependency.genruntimeconfig.cache
